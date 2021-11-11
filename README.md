@@ -6,7 +6,9 @@ Programa que converte números binários em decimais e vice-versa. Este projeto 
 
 ## Layout
 
-![Imagem demonstrativa do projeto](demo/layout.png)
+<div align="center">
+<img src="demo/layout.png" alt="Imagem demonstrativa"></img>
+</div>
 
 ## Tecnologias utilizadas
 
